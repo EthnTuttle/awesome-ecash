@@ -3,9 +3,8 @@ an awesome list for bitcoin based ecash. (please help curate) - (keep alphabetic
 
 # protocol
 
-https://cashu.space/
-https://fedimint.org/
-
+- https://cashu.space/
+- https://fedimint.org/
 
 # ui
 
