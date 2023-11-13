@@ -12,4 +12,6 @@ The symbol for ecash is 🔩
 
 # ui
 
+https://github.com/elsirion/webimint-rs
+
 # Nostr
