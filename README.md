@@ -15,3 +15,6 @@ The symbol for ecash is 🔩
 https://github.com/elsirion/webimint-rs
 
 # Nostr
+
+# fedimint modules
+- https://github.com/Fedimint-Prediction-Markets/fedimint-prediction-markets
